@@ -1,7 +1,5 @@
 # SYChartKit
-# iOS 曲线折线图、双轴曲线图、柱状图、堆积图、瀑布图、散点图、气泡图、多柱曲线双轴图等
-
->不借助第三方框架，自己手动绘制图表（曲线图、折线图、双轴曲线图、柱状图、堆积图、瀑布图、散点图、气泡图）
+# iOS 不借助第三方框架，自己手动绘制图表（包括曲线图、折线图、双轴曲线图、柱状图、堆积图、瀑布图、散点图、气泡图、多柱曲线双轴图）
 
 ![曲线图折线图](https://upload-images.jianshu.io/upload_images/2117012-7ed2a3c8c443ba5d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![双轴曲线图折线图](https://upload-images.jianshu.io/upload_images/2117012-72ec2c6b3151908b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -9,6 +7,9 @@
 ![堆积图](https://upload-images.jianshu.io/upload_images/2117012-75fad7cb2d50cb43.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![散点图](https://upload-images.jianshu.io/upload_images/2117012-8fef9f2f7610bdaa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![气泡图](https://upload-images.jianshu.io/upload_images/2117012-527dd2dace08d1bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![多柱曲线双轴图](https://upload-images.jianshu.io/upload_images/2117012-ced0fcaaa0ead8bf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 #####一部分UI自定义属性
 ```
