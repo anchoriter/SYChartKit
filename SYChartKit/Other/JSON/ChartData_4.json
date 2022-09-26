@@ -1,0 +1,40 @@
+{
+    "code":"200",
+    "msg":"success",
+    "success":true,
+    "data":{
+        "chartName":"实收构成",
+        "chartId":null,
+        "chartType":"waterfall",
+        "dataInfo":{
+            "columnMetas":[
+                {
+
+                    "name":"类型",
+                    "index":0,
+                    "fieldType":0
+                },
+                {
+                    "name":"实收",
+                    "index":1,
+                    "fieldType":1
+                }
+            ],
+            "datas":[
+                [
+                    "总计",
+                    "分组1",
+                    "分组2",
+                    "分组3"
+                ],
+                [
+                    "12000",
+                    "5000",
+                    "4500",
+                    "2500"
+                ]
+            ],
+            "extra":null
+        }
+    }
+}
